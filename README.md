@@ -23,11 +23,7 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jignesh1236&show_icons=true&theme=radical" alt="Jignesh's GitHub stats" />
-</p>
+### 📊 language
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jignesh1236&layout=compact&theme=radical" alt="Top Langs" />
