@@ -40,17 +40,8 @@
 
 <p align="center">
   <a href="https://github.com/jignesh1236"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-</p>
-
----
-
-### 🐍 GitHub Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jignesh1236/jignesh1236/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <a href="mailto:jigneshmaru690@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://discord.com/users/jignesh1235" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
 
 ---
@@ -60,5 +51,3 @@
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
 ---
-
-⭐️ From [Jignesh D Maru](https://github.com/jignesh1236)
