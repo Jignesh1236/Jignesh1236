@@ -54,10 +54,6 @@
 
 ### 📌 Featured Projects
 
----
-
-### 📌 Featured Projects
-
 <p align="center">
   <a href="https://github.com/Jignesh1236/toolhub">
     <img src="https://img.shields.io/badge/ToolHub-blue?style=for-the-badge&logo=github" />
