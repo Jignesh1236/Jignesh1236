@@ -64,27 +64,6 @@
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=jignesh1236&color=blue)
+  ![Profile Views](https://komarev.com/ghpvc/?username=jignesh1236&color=blue)
 
 ---
-
----
-
-### 📈 Profile Stats & Achievements
-
-<p align="center">
-  <!-- Profile Views -->
-  ![Profile Views](https://komarev.com/ghpvc/?username=jignesh1236&color=blue&style=flat-square)
-
-  <!-- GitHub Trophies -->
-  <br>
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=jignesh1236&theme=radical&no-frame=true&margin-w=15&margin-h=15)
-</p>
-
-### 🐍 Contribution Activity
-
-<p align="center">
-  <!-- GitHub Contribution Graph (static, works automatically) -->
-  ![Jignesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jignesh1236&show_icons=true&theme=radical)
-</p>
-
