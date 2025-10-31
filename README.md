@@ -62,3 +62,7 @@
   </a>
 </p>
 
+---
+
+![Visitor Count](https://profile-counter.glitch.me/jignesh1236/count.svg)
+
