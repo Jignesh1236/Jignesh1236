@@ -51,3 +51,39 @@
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
 ---
+
+### 📌 Featured Projects
+
+---
+
+### 📌 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/Jignesh1236/toolhub">
+    <img src="https://img.shields.io/badge/ToolHub-blue?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://github.com/Jignesh1236/Jignesh-D-Maru-Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://github.com/Jignesh1236/my-reviews">
+    <img src="https://img.shields.io/badge/My_Reviews-purple?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+<p align="center">
+  <em>ToolHub</em> – Collection of useful productivity tools<br>
+  <em>Portfolio</em> – My personal developer portfolio<br>
+  <em>My Reviews</em> – Platform to manage and view reviews
+</p>
+
+<p align="center">
+  <a href="https://github.com/Jignesh1236/toolhub">
+    <img src="https://img.shields.io/github/stars/Jignesh1236/toolhub?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://github.com/Jignesh1236/Jignesh-D-Maru-Portfolio">
+    <img src="https://img.shields.io/github/stars/Jignesh1236/Jignesh-D-Maru-Portfolio?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://github.com/Jignesh1236/my-reviews">
+    <img src="https://img.shields.io/github/stars/Jignesh1236/my-reviews?style=for-the-badge&logo=github" />
+  </a>
+</p>
