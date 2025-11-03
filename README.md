@@ -1,8 +1,12 @@
 <!-- 🌟 GitHub Profile README for Jignesh D Maru -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C0FF&width=500&lines=Hey+There!+I'm+Jignesh+D+Maru;A+Web+Developer+from+India;I+Love+Code+%26+Creativity" alt="Typing SVG" />
-</p>
+<div align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C0FF&center=true&vCenter=true&width=500&lines=Hey+There!+I'm+Jignesh+D+Maru;A+Web+Developer+from+India;I+Love+Code+%26+Creativity" 
+    alt="Typing SVG" 
+  />
+</div>
+
 
 <h3 align="center">🚀 A Passionate Beginner Software Developer from India 🇮🇳</h3>
 
