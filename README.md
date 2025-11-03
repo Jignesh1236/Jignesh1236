@@ -1,9 +1,9 @@
 <!-- 🌟 GitHub Profile README for Jignesh D Maru -->
 
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C0FF&width=435&lines=Hey+There!+I'm+Jignesh+D+Maru;A+Web+Developer+from+India;I+Love+Code+%26+Creativity" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C0FF&width=500&lines=Hey+There!+I'm+Jignesh+D+Maru;A+Web+Developer+from+India;I+Love+Code+%26+Creativity" alt="Typing SVG" />
 </p>
+
 <h3 align="center">🚀 A Passionate Beginner Software Developer from India 🇮🇳</h3>
 
 ---
@@ -23,22 +23,25 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,git,github,vscode,figma&theme=dark" alt="Languages & Tools" />
 </p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20Source%20Lover-%23FF4500?style=for-the-badge&logo=opensourceinitiative&logoColor=white" />
-  <img src="https://img.shields.io/badge/Currently%20Learning-React%20and%20TypeScript-blue?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Currently%20Learning-React%20%26%20TypeScript-blue?style=for-the-badge&logo=react&logoColor=white" />
 </p>
 
 ---
 
-### 📊 My GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jignesh1236&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jignesh1236&label=%20Profile%20Views&color=brightgreen&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=jignesh1236&label=Profile%20Views&color=brightgreen&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/jignesh1236?label=Followers&style=for-the-badge" />
 </p>
+
 ---
 
 ### 🌐 Connect With Me
@@ -84,4 +87,3 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20with%20❤️%20by-Jignesh%20D%20Maru-blueviolet?style=for-the-badge" />
 </p>
-
