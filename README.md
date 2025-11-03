@@ -67,3 +67,4 @@
   ![Profile Views](https://komarev.com/ghpvc/?username=jignesh1236&color=blue)
 
 ---
+![My Reviews Widget](https://my-reviews.onrender.com/api/widget)
