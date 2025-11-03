@@ -35,7 +35,10 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jignesh1236&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jignesh1236&label=%20Profile%20Views&color=brightgreen&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/jignesh1236?label=Followers&style=for-the-badge" />
+</p>
 ---
 
 ### 🌐 Connect With Me
@@ -68,12 +71,6 @@
   </a>
 </p>
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jignesh1236&label=%20Profile%20Views&color=brightgreen&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/jignesh1236?label=Followers&style=for-the-badge" />
-</p>
 ---
 
 ### 🧩 My Reviews Widget
