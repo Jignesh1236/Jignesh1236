@@ -32,6 +32,12 @@
   <img src="https://img.shields.io/badge/Open%20Source%20Lover-%23FF4500?style=for-the-badge&logo=opensourceinitiative&logoColor=white" />
   <img src="https://img.shields.io/badge/Currently%20Learning-React%20%26%20TypeScript-blue?style=for-the-badge&logo=react&logoColor=white" />
 </p>
+  <img 
+    src="https://cdn.worldvectorlogo.com/logos/expo-go-app.svg" 
+    alt="Expo" 
+    height="48" 
+    style="margin-left: 10px;" 
+  />
 
 ---
 
