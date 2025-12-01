@@ -23,10 +23,11 @@
 ---
 
 ### 🛠️ Languages & Tools
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,git,github,vscode,figma&theme=dark" alt="Languages & Tools" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,git,github,vscode&theme=dark" />
+  <img src="https://cdn.worldvectorlogo.com/logos/expo-go-app.svg" width="37" style="margin-left:10px;" />
 </p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20Source%20Lover-%23FF4500?style=for-the-badge&logo=opensourceinitiative&logoColor=white" />
