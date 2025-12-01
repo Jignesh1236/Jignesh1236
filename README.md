@@ -25,7 +25,7 @@
 ### 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,git,github,vscode,figma&theme=dark" alt="Languages & Tools" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,git,github,vscode,expo&theme=dark" alt="Languages & Tools" />
 </p>
 
 <p align="center">
