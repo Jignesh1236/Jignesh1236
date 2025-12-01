@@ -25,19 +25,13 @@
 ### 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,git,github,vscode,figma,expo&theme=dark" alt="Languages & Tools" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,git,github,vscode,figma&theme=dark" alt="Languages & Tools" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20Source%20Lover-%23FF4500?style=for-the-badge&logo=opensourceinitiative&logoColor=white" />
   <img src="https://img.shields.io/badge/Currently%20Learning-React%20%26%20TypeScript-blue?style=for-the-badge&logo=react&logoColor=white" />
 </p>
-  <img 
-    src="https://cdn.worldvectorlogo.com/logos/expo-go-app.svg" 
-    alt="Expo" 
-    height="48" 
-    style="margin-left: 10px;" 
-  />
 
 ---
 
