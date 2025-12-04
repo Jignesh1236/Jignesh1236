@@ -87,11 +87,6 @@
   <img src="https://my-reviews.onrender.com/api/widget" alt="My Reviews Widget" />
 </p>
 
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Made%20with%20❤️%20by-Jignesh%20D%20Maru-blueviolet?style=for-the-badge" />
-</p>
 
 ---
 
@@ -121,3 +116,8 @@
   </a>
 </p>
 
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with%20❤️%20by-Jignesh%20D%20Maru-blueviolet?style=for-the-badge" />
+</p>
