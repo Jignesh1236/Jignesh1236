@@ -92,3 +92,32 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20with%20❤️%20by-Jignesh%20D%20Maru-blueviolet?style=for-the-badge" />
 </p>
+
+---
+
+### 🏆 My Microsoft Learn Achievements
+
+<p align="center">
+  <a href="https://learn.microsoft.com/api/achievements/share/en-us/JigneshMaru-9809/37ZE37YH?sharingId=BD3FA3CCA6D6ED2E" target="_blank">
+    <img src="https://learn.microsoft.com/training/achievements/generic-badge.svg" alt="Achievement 1" width="80" />
+  </a>
+  <a href="https://learn.microsoft.com/api/achievements/share/en-us/JigneshMaru-9809/HZ2P9KH8?sharingId=BD3FA3CCA6D6ED2E" target="_blank">
+    <img src="https://learn.microsoft.com/training/achievements/build-first-html-webpage.svg" alt="Achievement 2" width="80" />
+  </a>
+  <a href="https://learn.microsoft.com/api/achievements/share/en-us/JigneshMaru-9809/AKB5XAQ7?sharingId=BD3FA3CCA6D6ED2E" target="_blank">
+    <img src="https://learn.microsoft.com/training/achievements/use-css-styles.svg" alt="Achievement 3" width="80" />
+  </a>
+  <a href="https://learn.microsoft.com/api/achievements/share/en-us/JigneshMaru-9809/CXWTRAR9?sharingId=BD3FA3CCA6D6ED2E" target="_blank">
+    <img src="https://learn.microsoft.com/training/achievements/introduction-to-web-development.svg" alt="Achievement 4" width="80" />
+  </a>
+  <a href="https://learn.microsoft.com/api/achievements/share/en-us/JigneshMaru-9809/NV79QNJF?sharingId=BD3FA3CCA6D6ED2E" target="_blank">
+    <img src="https://learn.microsoft.com/training/achievements/student-evangelism/web-development-101-accessibility.svg" alt="Achievement 5" width="80" />
+  </a>
+  <a href="https://learn.microsoft.com/api/achievements/share/en-us/JigneshMaru-9809/82VKV3NW?sharingId=BD3FA3CCA6D6ED2E" target="_blank">
+    <img src="https://learn.microsoft.com/learn/achievements/generic-badge.svg" alt="Achievement 6" width="80" />
+  </a>
+  <a href="https://learn.microsoft.com/api/achievements/share/en-us/JigneshMaru-9809/37ZEC3YH?sharingId=BD3FA3CCA6D6ED2E" target="_blank">
+    <img src="https://learn.microsoft.com/training/achievements/build-web-pages-html-css-for-beginners.svg" alt="Achievement 7" width="80" />
+  </a>
+</p>
+
