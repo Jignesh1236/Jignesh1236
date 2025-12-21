@@ -116,6 +116,8 @@
   </a>
 </p>
 
+![Snake animation](https://raw.githubusercontent.com/Jignesh1236/Jignesh1236/output/github-contribution-grid-snake-dark.svg)
+
 ---
 
 <p align="center">
