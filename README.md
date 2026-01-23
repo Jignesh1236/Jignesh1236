@@ -123,3 +123,4 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20with%20❤️%20by-Jignesh%20D%20Maru-blueviolet?style=for-the-badge" />
 </p>
+<a href="v4.rxresu.me/jignesh1236/jignesh-resume>resume</a>
