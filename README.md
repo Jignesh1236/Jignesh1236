@@ -14,9 +14,8 @@
 
 ### 🧭 About Me
 
-- 🔭 Currently building my **personal portfolio website**
+- 🔭 Currently building my **block coding app**
 - 🌱 Learning **TypeScript**, **React**, and **modern web development**
-- 💬 Ask me about **HTML, CSS, JavaScript**, or **GitHub basics**
 - 🎯 Goal → Become a **Full-Stack Web Developer**
 - ⚡ Fun fact → I write my cleanest code at **2 AM** 😅
 
