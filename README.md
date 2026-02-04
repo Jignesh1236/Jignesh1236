@@ -83,7 +83,7 @@
 ### 🧩 My Reviews Widget
 
 <p align="center">
-  <img src="https://my-reviews.onrender.com/api/widget" alt="My Reviews Widget" />
+  <img src="https://my-reviews.onrender.com/api/widget" alt=" " />
 </p>
 
 
