@@ -1,6 +1,5 @@
 <!-- 🌟 GitHub Profile README for Jignesh D Maru -->
-<!-- https://drive.google.com/file/d/0BzNPi9eTIJUAWFZFb0dvUU03bE0/edit?resourcekey=0-8d_jJiIHI8ZQ8lW3WqMlQQ
- https://www.tallyatcloud.com/tally-download -->
+
 <div align="center">
   <img 
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C0FF&center=true&vCenter=true&width=500&lines=Hey+There!+I'm+Jignesh+D+Maru;A+Web+Developer+from+India;I+Love+Code+%26+Creativity" 
