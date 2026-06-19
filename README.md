@@ -2,7 +2,10 @@
 
 # Jignesh D Maru
 
-### Web Developer • UI Lover • Electron Enthusiast
+
+### Just A Developer Making Fun Stuff On The Internet
+
+
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,electron,git,github,vscode&theme=dark" />
