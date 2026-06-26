@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,electron,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,electron,git&theme=dark" />
 
 <br><br>
 
