@@ -1,0 +1,46 @@
+# Marksheet Formulas (Excel)
+
+## Random Marks
+```excel
+=RANDBETWEEN(33,99)
+```
+
+## Total
+```excel
+=SUM(All Subjects)
+```
+
+## Minimum Marks
+```excel
+=MIN(All Subjects)
+```
+
+## Maximum Marks
+```excel
+=MAX(All Subjects)
+```
+
+## Percentage
+```excel
+=Total/7
+```
+
+## Grade
+```excel
+=IF(Percentage>=70,"A",
+IF(Percentage>=60,"B",
+IF(Percentage>=50,"C",
+IF(Percentage>=35,"D","Fail"))))
+```
+
+### Grade Rules
+- >= 70 → A
+- >= 60 → B
+- >= 50 → C
+- >= 35 → D
+- Below 35 → Fail
+
+## Result
+```excel
+=IF(MIN>=35,"Pass","Fail")
+```
