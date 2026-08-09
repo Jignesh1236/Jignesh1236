@@ -14,14 +14,6 @@
 
 <br><br>
 
-<a href="https://github.com/Jignesh1236/html-viewer">
-  <img src="https://img.shields.io/badge/HTML_Viewer-0d1117?style=for-the-badge&logo=html5&logoColor=white" />
-</a>
-
-<a href="https://github.com/Jignesh1236/my-reviews">
-  <img src="https://img.shields.io/badge/My_Reviews-0d1117?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
 <a href="https://discord.gg/rYHX8cfbYT">
   <img src="https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
