@@ -9,11 +9,6 @@
 
 <br><br>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Jignesh1236&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Jignesh1236&theme=github-dark-blue&hide_border=true&background=00000000"/>
-
-<br><br>
-
 <a href="https://discord.gg/rYHX8cfbYT">
   <img src="https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
