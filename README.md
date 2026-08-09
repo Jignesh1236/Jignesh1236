@@ -36,15 +36,6 @@
 
 <div align="center">
 
-<!-- <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jignesh1236&theme=github-dark&hide_border=true&area=true"/> -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jignesh1236&bg_color=00000000&color=c9d1d9&line=58a6ff&point=79c0ff&area=false&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
 <img src="https://img.shields.io/badge/Built%20with%20late--night%20ideas-0d1117?style=for-the-badge"/>
 
 </div>
