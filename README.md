@@ -6,8 +6,10 @@
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,electron,git&theme=dark" />
-
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,electron,git&theme=dark" />
+  <img src="https://play-lh.googleusercontent.com/6Sm-GdKg5y01-G56cBTF3zvuMl3TXXGDZj5k6j3rTzuKV_JDOwzpDbRviLxIZr-4U6xNESnMzajNIDRjd2CbCw" width="48" height="48" style="border-radius: 10px; vertical-align: middle;" />
+</div>
 <br>
 <br>
 
