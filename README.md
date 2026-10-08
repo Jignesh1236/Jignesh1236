@@ -17,17 +17,4 @@
 
 <br>
 <br>
-
-<a href="https://discord.gg/rYHX8cfbYT">
-  <img src="https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Built%20with%20late--night%20ideas-0d1117?style=for-the-badge" />
-
-</div>
+<a href="https://discord.gg/rYHX8cfbYT"><img src="https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=white" /></a>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Built%20with%20late--night%20ideas-0d1117?style=for-the-badge" />
